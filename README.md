@@ -1,5 +1,3 @@
-[TOC]
-
 # About GGStudio
 
 ## what is GGStudio
